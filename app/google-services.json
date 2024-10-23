@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858170454230",
+    "project_id": "doador-de-alimentos-8bdb1",
+    "storage_bucket": "doador-de-alimentos-8bdb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858170454230:android:6b6fcce4c86b5a17ab5977",
+        "android_client_info": {
+          "package_name": "com.doadordealimentoscomunitario.doaodealimentosprojeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAati8DBSIWAlwzrxFKaTyI9vrVN_GZ5k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
