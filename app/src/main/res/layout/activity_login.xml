@@ -9,14 +9,23 @@
     android:background="@drawable/background"
     tools:context=".Activity.Login">
 
+    <!-- Substitua 'logo' pelo nome do seu arquivo de imagem -->
+
+    <ImageView
+        android:id="@+id/logo_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/logo" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Doador de Alimentos Comunitário"
-        android:textColor="@color/white"
-        android:textSize="40sp"
         android:layout_marginBottom="120dp"
-        android:textAlignment="center"/>
+        android:text="Doador de Alimentos Comunitário"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40sp" />
 
     <EditText
         android:id="@+id/edt_email"
